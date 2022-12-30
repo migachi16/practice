@@ -14,7 +14,7 @@ def send_email() -> None:
 
     #####################domain_port.login(username, password)##############################
 
-    domain_port.sendmail('migachi16@gmail.com', 'pwqptsngfuwtretxme@kvhrw.com', 'Subject: We are evolving. \n Poop!')
+    domain_port.sendmail('migachi16@gmail.com', 'pwqptsngfuwtretxme@kvhrw.com', 'Subject: We are evolving. \n!!!')
     print('Email sent')
 
 def file_create(destination: str) -> None:
